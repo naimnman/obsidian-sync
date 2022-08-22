@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6bf29aa5bfb576a7",
@@ -129,8 +130,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6474c9198809ad7f",
+  "active": "8bbce21046d61fb2",
   "lastOpenFiles": [
-    "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md"
+    "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
+    "2022/Análisis Matemático I/LOS NÚMEROS.md"
   ]
 }
