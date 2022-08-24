@@ -13,7 +13,7 @@
 	- Notación decimal: _0.2, 1.16, etc._
 	- $$Q := {[\dfrac{p}{q}: p ∈ Z ~y~ q ∈ N ]}$$
 	- __Ordenamiento de fracciones:__  Al igualar los denominadores de dos fracciones, se vuelve trivial comparar su tamaño ya que solo debemos comparar el numerador.
-- __Reales:__ ALL OF THEM (almost).
+- __Reales:__ ALL OF THEM (almost).$$R=[0]∪[S*a_0·a_1·a_2·a_3...*10^{m∈Z}]$$
 ![[conjuntosNumericos.png]]
 ### Pertenencia e inclusión:
 La inclusión, denotada por ⊆, se da entre conjuntos, mientras que la pertenenia, denotada por el símbolo ∈, se da entre un elemento y un conjunto (y en ese orden).
@@ -40,6 +40,18 @@ De manera informal, se puede expresar como la propiedad de no tener elementos in
 - Potencia de una potencia: Al encontrarse con una potencia elevada a otra potencia, se mantiene la base  y se multiplican los exponentes.
 
 # Logaritmo: 
-- __Definición:__ Un logaritmo expresa potenciación, o sea, indica el exponente por el cual se debe elevar la base para obtener la potencia indicada. De esta forma podemos hacer la correlación entre un logaritmo y la potenciación siendo los siguientes términos equivalentes: Exponente = logaritmo. Potencia = número.
-- $$2^x=5 -> x=log2~5$$
+- _"La división repetida es el logaritmo"_
+- __Definición:__ Un logaritmo expresa potenciación, o sea, indica el exponente por el cual se debe elevar la base para obtener la potencia indicada. De esta forma podemos hacer la correlación entre un logaritmo y la potenciación siendo los siguientes términos equivalentes: Exponente = logaritmo. Potencia = número. $$2^x=5  x=log_2~5$$
+
+
+- __Identidad fundamental:__
+  Dado un $x>0$ y un $r>0$ y $r≠1$, podemos escribirlo de la siguiente manera: $$x=r^{log_r~128}$$
 -  __Cambio de base:__ $${log_r~x = \dfrac{log~x}{log~r}}$$
+
+---
+## Propiedades de los Reales:
+### Completitud:
+Llamada axioma de completitud, esta garantiza una correspondencia biunívoca (uno a uno) entre el conjunto de los números reales y el conjunto de puntos en la recta o eje.
+Daremos las dos versiones una con ínfimo y la otra con supremo estableciendo que son equivalentes:
+- Todo conjunto no vacío y acotado inferiormente tiene ínfimo.
+- Todo conjunto no vacío y acotado superiormente tiene supremo.
