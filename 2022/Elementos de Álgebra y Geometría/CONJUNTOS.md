@@ -104,3 +104,6 @@ __Propiedades de la inclusión:__
 - __Perteneciente:__ Un objeto pertenece a un conjunto cuando forma parte de los elementos del mismo.
 - __Contraejemplo:__ un caso excepcional (o no) que implica que cierta afirmación no se cumple. Un único contraejemplo ya es suficiente para probar falsa respectiva afirmación.
 - __Si y solo si:__ Entre dos afirmaciones, el conector si y solo si se utiliza cuando la primera afirmación implica una segunda afirmación, esto asumiendo que la primera es verdadera. Luego, a partir de la segunda afirmación, y asumiendo que es verdadera, se llega a la primera afirmación por implicación. Esta implicación inversa se denomina _recíproca_.
+
+
+

@@ -36,8 +36,8 @@ De manera informal, se puede expresar como la propiedad de no tener elementos in
 ---
 # Potenciación
 ## Propiedades:
-- Producto de potencias de igual base: En un producto este estilo, se suman los exponentes y se mantiene la base.
-- Potencia de una potencia: Al encontrarse con una potencia elevada a otra potencia, se mantiene la base  y se multiplican los exponentes.
+- __Producto de potencias de igual base:__ En un producto este estilo, se suman los exponentes y se mantiene la base.
+- __Potencia de una potencia:__ Al encontrarse con una potencia elevada a otra potencia, se mantiene la base  y se multiplican los exponentes.
 
 ---
 # Logaritmo: 
