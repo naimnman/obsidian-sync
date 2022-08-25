@@ -1,12 +1,11 @@
 # [[ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA]]
-
 ---
 # TEMA 1: CONJUNTOS
 - Se definen con una letra latina mayúscula. Un conjunto está bien definido cuando es posible precisar sus elementos. 
-- Ejemplos de estos pueden ser; N, Z, Q, R, C.
-	- N = {0, 1, 2, 3, 4...}
-	  Z = {...-3, -2, -1, 0, 1, 2, 3...}
-	  A = {x: x ∈ N && x<5}
+- Ejemplos de estos pueden ser; $N, Z, Q, R, C.$
+	- $N = [0, 1, 2, 3, 4...]$
+	  $Z = [...-3, -2, -1, 0, 1, 2, 3...]$
+	  $A = [x: x ∈ N, and~ x<5]$
 
 ### Elementos 
 - Se definen con una letra latina minúscula. Estos son los que integran  un conjunto.

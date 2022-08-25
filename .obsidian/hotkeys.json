@@ -1,1 +1,111 @@
-{}
+{
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-outliner:fold": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-outliner:unfold": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:rename-heading": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "workspace:split-horizontal": [],
+  "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll-zen": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Home"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "editor:focus": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "hotkeysplus-obsidian:clear-current-line": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "obsidian-fullscreen-plugin:fullscreen-focus": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ]
+}

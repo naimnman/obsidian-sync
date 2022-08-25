@@ -1,7 +1,7 @@
 {
   "cssTheme": "Spectrum",
-  "baseFontSize": 18,
-  "textFontFamily": "Hey Comic,ComicNeueSansID",
+  "baseFontSize": 20,
+  "textFontFamily": "Hey Comic",
   "interfaceFontFamily": "Cursif",
   "monospaceFontFamily": "Nimbus Mono PS"
 }

@@ -3,5 +3,13 @@
     "en-US",
     "es-AR"
   ],
-  "attachmentFolderPath": "2022/ANEXO"
+  "attachmentFolderPath": "2022/ANEXO",
+  "showFrontmatter": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "foldIndent": true,
+  "spellcheck": false,
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "readableLineLength": true
 }

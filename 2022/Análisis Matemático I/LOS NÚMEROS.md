@@ -39,11 +39,10 @@ De manera informal, se puede expresar como la propiedad de no tener elementos in
 - Producto de potencias de igual base: En un producto este estilo, se suman los exponentes y se mantiene la base.
 - Potencia de una potencia: Al encontrarse con una potencia elevada a otra potencia, se mantiene la base  y se multiplican los exponentes.
 
+---
 # Logaritmo: 
 - _"La división repetida es el logaritmo"_
-- __Definición:__ Un logaritmo expresa potenciación, o sea, indica el exponente por el cual se debe elevar la base para obtener la potencia indicada. De esta forma podemos hacer la correlación entre un logaritmo y la potenciación siendo los siguientes términos equivalentes: Exponente = logaritmo. Potencia = número. $$2^x=5  x=log_2~5$$
-
-
+- __Definición:__ Un logaritmo expresa potenciación, o sea, indica el exponente por el cual se debe elevar la base para obtener la potencia indicada. De esta forma podemos hacer la correlación entre un logaritmo y la potenciación siendo los siguientes términos equivalentes: Exponente = logaritmo. Potencia = número. $$2^x=5 ~;~ x=log_2~5$$
 - __Identidad fundamental:__
   Dado un $x>0$ y un $r>0$ y $r≠1$, podemos escribirlo de la siguiente manera: $$x=r^{log_r~128}$$
 -  __Cambio de base:__ $${log_r~x = \dfrac{log~x}{log~r}}$$
