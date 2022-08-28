@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:2022/ArgentinaPrograma",
+      "color": {
+        "a": 1,
+        "rgb": 4774629
+      }
+    },
+    {
+      "query": "path:\"2022/Análisis Matemático I\"",
+      "color": {
+        "a": 1,
+        "rgb": 12605840
+      }
+    },
+    {
+      "query": "path:\"2022/Elementos de Álgebra y Geometría\"",
+      "color": {
+        "a": 1,
+        "rgb": 3790382
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "nodeSizeMultiplier": 1.6290780141844,
+  "lineSizeMultiplier": 1.94184397163121,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 157,
   "scale": 0.40844332494220015,
   "close": true
 }
