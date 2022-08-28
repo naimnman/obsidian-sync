@@ -7,8 +7,12 @@
         "id": "7578b783eadef480",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022/Análisis Matemático I/LOS NÚMEROS.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "6bf29aa5bfb576a7",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022/Análisis Matemático I/LOS NÚMEROS.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2022/Análisis Matemático I/LOS NÚMEROS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022/Análisis Matemático I/LOS NÚMEROS.md"
+              }
             }
           }
         ],
@@ -133,8 +140,8 @@
   },
   "active": "7578b783eadef480",
   "lastOpenFiles": [
-    "2022/Análisis Matemático I/LOS NÚMEROS.md",
     "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
+    "2022/Análisis Matemático I/LOS NÚMEROS.md",
     "2022/ArgentinaPrograma/ARGENTINA PROGRAMA.md",
     "2022/Elementos de Álgebra y Geometría/CONJUNTOS.md",
     "2022/Elementos de Álgebra y Geometría/ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA.md",
