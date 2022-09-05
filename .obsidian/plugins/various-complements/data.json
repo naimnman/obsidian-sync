@@ -42,5 +42,94 @@
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {}
+  "selectionHistoryTree": {
+    "sobreyectiva": {
+      "sobreyectiva": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662398797980
+        }
+      }
+    },
+    "decir": {
+      "decir": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662398808895
+        }
+      }
+    },
+    "log_{a}": {
+      "log_{a}": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1662399799464
+        }
+      }
+    },
+    "Propiedades": {
+      "Propiedades": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662399069799
+        }
+      }
+    },
+    "producto": {
+      "producto": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662399177440
+        }
+      }
+    },
+    "logaritmo": {
+      "logaritmo": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662399238659
+        }
+      }
+    },
+    "Decreciente": {
+      "Decreciente": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662399432299
+        }
+      }
+    },
+    "desigualdades": {
+      "desigualdades": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662399445571
+        }
+      }
+    },
+    "función": {
+      "función": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662400002682
+        }
+      }
+    },
+    "Logaritmo": {
+      "Logaritmo": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662400615926
+        }
+      }
+    },
+    "Biyectiva": {
+      "Biyectiva": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662404656208
+        }
+      }
+    }
+  }
 }

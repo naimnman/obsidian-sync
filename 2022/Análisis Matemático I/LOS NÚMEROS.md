@@ -1,6 +1,12 @@
 # [[ANÁLISIS MATEMÁTICO I]]
 ---
-# TEMA 1: LOS NÚMEROS.
+# TEMA 1: LOS NÚMEROS __Monotonía__ 
+		- _Creciente:_ una función es creciente cuando conserva desigualdades. 
+		  Cuando $a>1$, $a^x$ y $log_{a}~x$ __son crecientes__
+		  Ejemplo: $-1<2$ = $(-1)²<2²$ = $1<4$.
+		- _Decreciente:_ una función es decreciente cuando invierte las desigualdades. 
+		  Cuando $0<a<1$, $a^x$ y $log_{a}~x$ __son decrecientes.__ 
+		  Ejemplo: $-2<1$ → $(-2)²>1²$ → $4>1$..
 
 ## Conjuntos numéricos:
 - __Naturales:__ 
@@ -54,3 +60,39 @@ Llamada axioma de completitud, esta garantiza una correspondencia biunívoca (u
 Daremos las dos versiones una con ínfimo y la otra con supremo estableciendo que son equivalentes:
 - Todo conjunto no vacío y acotado inferiormente tiene ínfimo.
 - Todo conjunto no vacío y acotado superiormente tiene supremo.
+---
+
+[TODO LO Q ME FALTA XD]
+---
+
+# Funciones Trascendientes
+
+## Funciones exponenciales:
+- __Básicas:__ $f(x)=a^x$. Para que esto se cumpla, $a > 0$ y $a ≠ 1$ con $a$ pertenenciente a los números reales.
+	- Dominio = R.
+	- Imagen: (0;+∞). Esto quiere decir $a^x=b>0$.
+	- La función tiene su inversa: $log_{a}~x: (0, ∞)$ 
+	- La distribución del logaritmo en un producto: $$log_{a}~(u*v)=log_{a}~u+log_{a}~v$$ Con $u>0$ y $v>0$.
+	- El logaritmo de un número exponencial: $$log_{a}~(u^r)=r*log_{a}~u$$
+	- __Es inyectiva:__ $a^x=a^z$ => $x=z$.
+	- __Es sobreyectiva:__ $a^x: R$ => Codominio: (0, ∞).
+		- Debido a que es _inyectiva_ y _sobreyectiva_, podemos decir que es __biyectiva__.
+	-  __Monotonía__ 
+		- _Creciente:_ una función es creciente cuando conserva desigualdades. 
+		  Cuando $a>1$, $a^x$ y $log_{a}~x$ __son crecientes__
+		  Ejemplo: $-1<2$ = $(-1)²<2²$ = $1<4$.
+		- _Decreciente:_ una función es decreciente cuando invierte las desigualdades. 
+		  Cuando $0<a<1$, $a^x$ y $log_{a}~x$ __son decrecientes.__ 
+		  Ejemplo: $-2<1$ → $(-2)²>1²$ → $4>1$.
+## Funciones Trigonométricas:
+- Semejanza: Implica proporcionalidad, si los lados son iguales, los ángulos también lo serán.
+
+- Índice de periodicidad: A partir de $
+- Relación de $t_1$ y $t_2$: [FOTO]
+	- $t_{1}+t_{2}=$
+
+
+---
+#GLOSARIO 
+- Biyectiva: <iframe src="https://es.wikipedia.org/wiki/Biyectiva" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe> 
+- 
