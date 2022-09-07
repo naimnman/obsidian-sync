@@ -130,6 +130,150 @@
           "lastUpdated": 1662404656208
         }
       }
+    },
+    "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA": {
+      "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662463160430
+        }
+      }
+    },
+    "NÚMEROS REALES": {
+      "NÚMEROS REALES": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662463181112
+        }
+      }
+    },
+    "Inyectiva": {
+      "Inyectiva": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662464568458
+        }
+      }
+    },
+    "Sobreyectiva": {
+      "Sobreyectiva": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662464573734
+        }
+      }
+    },
+    "inducción": {
+      "inducción": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1662466329723
+        }
+      }
+    },
+    "verdadera": {
+      "verdadera": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1662466254498
+        }
+      }
+    },
+    "principio": {
+      "principio": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662466327489
+        }
+      }
+    },
+    "proposición": {
+      "proposición": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1662466355954
+        }
+      }
+    },
+    "Epiyectiva": {
+      "Epiyectiva": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1662560777857
+        }
+      }
+    },
+    "ANÁLISIS MATEMÁTICO I": {
+      "ANÁLISIS MATEMÁTICO I": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1662570847973
+        }
+      }
+    },
+    "FUNCIONES": {
+      "FUNCIONES": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1662570910317
+        }
+      }
+    },
+    "LAS SUCESIONES NUMÉRICAS": {
+      "LAS SUCESIONES NUMÉRICAS": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662571626763
+        }
+      }
+    },
+    "recursiva": {
+      "recursiva": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662573965979
+        }
+      }
+    },
+    "sucesión": {
+      "sucesión": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1662574102677
+        }
+      }
+    },
+    "aritmética": {
+      "aritmética": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1662574168236
+        }
+      }
+    },
+    "Suceciones": {
+      "Suceciones": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662574315084
+        }
+      }
+    },
+    "a_0+R": {
+      "a_0+R": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662574944280
+        }
+      }
+    },
+    "\\frac{}": {
+      "\\frac{}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662576488765
+        }
+      }
     }
   }
 }

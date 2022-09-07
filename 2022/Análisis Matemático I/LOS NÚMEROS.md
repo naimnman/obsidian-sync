@@ -1,12 +1,6 @@
 # [[ANÁLISIS MATEMÁTICO I]]
 ---
-# TEMA 1: LOS NÚMEROS __Monotonía__ 
-		- _Creciente:_ una función es creciente cuando conserva desigualdades. 
-		  Cuando $a>1$, $a^x$ y $log_{a}~x$ __son crecientes__
-		  Ejemplo: $-1<2$ = $(-1)²<2²$ = $1<4$.
-		- _Decreciente:_ una función es decreciente cuando invierte las desigualdades. 
-		  Cuando $0<a<1$, $a^x$ y $log_{a}~x$ __son decrecientes.__ 
-		  Ejemplo: $-2<1$ → $(-2)²>1²$ → $4>1$..
+# TEMA 1: LOS NÚMEROS 
 
 ## Conjuntos numéricos:
 - __Naturales:__ 
@@ -93,6 +87,3 @@ Daremos las dos versiones una con ínfimo y la otra con supremo estableciendo qu
 
 
 ---
-#GLOSARIO 
-- Biyectiva: <iframe src="https://es.wikipedia.org/wiki/Biyectiva" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe> 
-- 

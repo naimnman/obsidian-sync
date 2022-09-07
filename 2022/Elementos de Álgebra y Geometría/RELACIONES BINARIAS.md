@@ -61,8 +61,8 @@ Las siguientes expresiones definen relaciones de equivalencia (en conjuntos apro
 
 ### Partición de un conjunto:
 Dado un conjunto A, diremos que una familia $[Ai]_{i∈I}$ de subconjuntos de A constituye una partición de A si:
-1. Ai ≠ ∅, para todo i ∈ I,
-2. Si i ≠ j entonces Ai ∩ Aj = ∅,
-3. $∪_{i∈I}~Ai=A$ -> donde $∪_{i∈I}~Ai = {x : x ∈ Ai , para~algún~ i ∈ I }.$
+1. $Ai ≠ ∅$, para todo $i ∈ I$,
+2. Si $i ≠ j$ entonces $Ai ∩ Aj = ∅$,
+3. $∪_{i∈I}~Ai=A$ -> donde $∪_{i∈I}~Ai = {x : x ∈ Ai}$, para algún $i ∈ I$.
 __Es decir, todos los subconjuntos de la familia son no vacíos, son disjuntos dos a dos y su unión es A.__
 [DIAGRAMA DE CONJUNTOS Y SUBCONJUNTOS]

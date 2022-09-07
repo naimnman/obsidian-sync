@@ -9,3 +9,5 @@
 8. [[PRIMITIVAS]].
 9. [[CÁLCULO DE ÁREAS]].
 10. [[SERIES NUMÉRICAS]].
+
+# [[GLOSARIO A.M]]
