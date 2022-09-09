@@ -134,8 +134,8 @@
     "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA": {
       "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1662463160430
+          "count": 2,
+          "lastUpdated": 1662639341115
         }
       }
     },
@@ -190,8 +190,8 @@
     "proposición": {
       "proposición": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1662466355954
+          "count": 3,
+          "lastUpdated": 1662636170114
         }
       }
     },
@@ -272,6 +272,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1662576488765
+        }
+      }
+    },
+    "DIVISIBILIDAD DE ENTEROS": {
+      "DIVISIBILIDAD DE ENTEROS": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662639367914
+        }
+      }
+    },
+    "k\\in{Z}": {
+      "k\\in{Z}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662641487127
+        }
+      }
+    },
+    "Remplazando": {
+      "Remplazando": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1662641523689
         }
       }
     }
