@@ -89,8 +89,8 @@ $m < (\frac{13}{7})^{n}$
 	- $lím~a_{n}*b_{n}=L*T$
 	- $lím~\frac{a_{n}}{b_{n}}$ es igual a:
 		- $\frac{L}{T}$, cuando $T\neq{0}$.
-		- $\infty$, cuando $L\neq 0 \and T=0$.
-		- $?$, cuando $L=0 \and T=0$.
+		- $\infty$, cuando $L\neq 0 \land T=0$.
+		- $?$, cuando $L=0 \land T=0$.
 - Luego, $a_{n}\rightarrow L$ y $b_{n} \rightarrow \infty$
 	- 
 	- $lím~\frac{a_{n}}{b_{n}}=0$
@@ -101,5 +101,14 @@ $m < (\frac{13}{7})^{n}$
 Casos NO contemplados en álgebra de límites:
 - $\frac{a_n}{b_n}$, dónde $a_{n}\rightarrow 0$ y $b_{n}\rightarrow 0$, por lo que tenemos $\frac{0}{0}$.
 - $a_{n}*b_{n}$, dónde $a_{n}\rightarrow 0$ y $b_{n}\rightarrow \infty$, por lo que tenemos $0*\infty$
+- $a_{n}-b_{n}$, dónde $a_{n}\rightarrow \infty$ y $b_{n}\rightarrow -\infty$, por lo que tenemos $\infty - \infty$.
 - [INVESTIGAR INDETERMINACIONES DE ÁLGEBRA DE LÍMTIES]
+
+### Criterio del cociente (útil para sucesiones)
+De términos grandes por lo menos, geométricas.
+[INVESTIGAR Y ADJUNTAR PLANTILLA DE RESOLUCIÓN]
+
+### Multiplicación por conjugado
+[INVESTIGAR Y ADJUNTAR PLANTILLA DE RESOLUCIÓN]
+[<iframe src="https://www.matematicatuya.com/limite/S2a.html" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>](https://www.matematicatuya.com/limite/S2a.html)
 
