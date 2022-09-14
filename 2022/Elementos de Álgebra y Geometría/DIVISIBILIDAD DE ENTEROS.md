@@ -2,6 +2,7 @@
 ---
 # TEMA: DIVISIBILIDAD DE ENTEROS
 _Definición 6.1:_ Sean $a, b ∈ Z$. Se dice que $a$ divide a $b$, y escribimos $a | b$, si existe $k ∈ Z$ tal que $b = a · k$.
+En este caso diremos también que $a$ es un factor de $b$, que $b$ es divisible por $a$ ó que $b$ es múltiplo de $a$. Si $a$ no divide $a|b$ escribimos $a|b$.
 
 ## Propiedades:
 1. $a|a$. Reflexividad: cada número entero es divisibile por sí mismo, siendo $k=1$.
@@ -22,3 +23,11 @@ _Definición 6.1:_ Sean $a, b ∈ Z$. Se dice que $a$ divide a $b$, y escribimos
 	   Si fuera $a=0$, de $b=a*k$ resulta $b=0$, en ese caso; $|a|=|b|$.
 	   En cambio, si $a\neq{0}$, $a=a*k*k'$ implica $k*k'=1$ por simplificación.
 	   Entonces como $k*k'\in{Z}$, resulta que el valor de $k=\pm{1}$.
+
+### Observaciones:
+1.  $c|a+b$ no implica que $c | a$ ó $c | b$. Por ejemplo, $6 | 4 + 8$, pero $6 \nmid 4$ y $6 \nmid 8$.
+2. Sin embargo, si $c | a + b$ y se sabe que $c | a$ entonces $c | b$ (pues $c | (a + b) − a$).
+3. Si $c | a$, entonces $c | k · a$ para todo $a ∈ Z$.
+4. Si $c | a$, entonces $c | a²$  y $c | a^n$ para todo $n ∈ N$.
+
+

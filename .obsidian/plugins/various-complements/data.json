@@ -110,8 +110,8 @@
     "función": {
       "función": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662400002682
+          "count": 2,
+          "lastUpdated": 1663180385768
         }
       }
     },
@@ -206,16 +206,16 @@
     "ANÁLISIS MATEMÁTICO I": {
       "ANÁLISIS MATEMÁTICO I": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1662570847973
+          "count": 3,
+          "lastUpdated": 1663176227368
         }
       }
     },
     "FUNCIONES": {
       "FUNCIONES": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1662570910317
+          "count": 5,
+          "lastUpdated": 1663176265680
         }
       }
     },
@@ -456,6 +456,102 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1663008336931
+        }
+      }
+    },
+    "\\nmid": {
+      "\\nmid": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663068165211
+        }
+      }
+    },
+    "Funciones": {
+      "Funciones": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663176261268
+        }
+      }
+    },
+    "CONTINUIDAD I": {
+      "CONTINUIDAD I": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663177156914
+        }
+      }
+    },
+    "discontinuidad": {
+      "discontinuidad": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663179496833
+        }
+      }
+    },
+    "interpreta": {
+      "interpreta": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663179887638
+        }
+      }
+    },
+    "gráficamente": {
+      "gráficamente": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663179889722
+        }
+      }
+    },
+    "indeterminación": {
+      "indeterminación": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1663182238127
+        }
+      }
+    },
+    "polinomios": {
+      "polinomios": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663180337423
+        }
+      }
+    },
+    "x\\rightarrow": {
+      "x\\rightarrow": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1663182277008
+        }
+      }
+    },
+    "límite": {
+      "límite": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663180981622
+        }
+      }
+    },
+    "trigonométricas": {
+      "trigonométricas": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663181769714
+        }
+      }
+    },
+    "Cálculo": {
+      "Cálculo": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663182490420
         }
       }
     }

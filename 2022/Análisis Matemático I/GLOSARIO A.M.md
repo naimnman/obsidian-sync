@@ -10,4 +10,9 @@
 ---
 # [[LAS SUCESIONES NUMÉRICAS]] 
 - Suceciones: <iframe src="https://es.wikipedia.org/wiki/Sucesi%C3%B3n_(matem%C3%A1tica)" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-- 
+
+---
+# [[CONTINUIDAD I]] 
+- Continuidad: 
+- Salto: 
+- Asíntota vertical:

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5d988913e2971d4a",
+        "id": "c1af2e4343513c3b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/Análisis Matemático I/LAS SUCESIONES NUMÉRICAS.md",
+            "file": "2022/Análisis Matemático I/CONTINUIDAD I.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/Análisis Matemático I/LAS SUCESIONES NUMÉRICAS.md",
+                "file": "2022/Análisis Matemático I/CONTINUIDAD I.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022/Análisis Matemático I/LAS SUCESIONES NUMÉRICAS.md",
+                "file": "2022/Análisis Matemático I/CONTINUIDAD I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022/Análisis Matemático I/LAS SUCESIONES NUMÉRICAS.md"
+                "file": "2022/Análisis Matemático I/CONTINUIDAD I.md"
               }
             }
           }
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d988913e2971d4a",
+  "active": "c1af2e4343513c3b",
   "lastOpenFiles": [
-    "2022/Análisis Matemático I/límiteSucesionEpsilon.md",
+    "2022/Análisis Matemático I/GLOSARIO A.M.md",
+    "2022/Análisis Matemático I/CONTINUIDAD I.md",
     "2022/Análisis Matemático I/LAS SUCESIONES NUMÉRICAS.md",
     "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
-    "2022/Elementos de Álgebra y Geometría/CONJUNTOS.md",
-    "2022/Elementos de Álgebra y Geometría/ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA.md",
-    "2022/Análisis Matemático I/FUNCIONES.md",
-    "2022/Análisis Matemático I/GLOSARIO A.M.md",
+    "2022/Análisis Matemático I/LAS FUNCIONES.md",
     "2022/Elementos de Álgebra y Geometría/DIVISIBILIDAD DE ENTEROS.md",
-    "2022/Elementos de Álgebra y Geometría/GLOSARIO E.A.G.md",
-    "2022/Elementos de Álgebra y Geometría/RELACIONES BINARIAS.md"
+    "2022/Elementos de Álgebra y Geometría/RELACIONES BINARIAS.md",
+    "2022/Análisis Matemático I/límiteSucesionEpsilon.md",
+    "2022/Elementos de Álgebra y Geometría/CONJUNTOS.md",
+    "2022/Elementos de Álgebra y Geometría/ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA.md"
   ]
 }

@@ -31,7 +31,7 @@ $$a_n=\frac{2n²+3n-1}{3n³+6n-2}$$
 - Los términos dentro del paréntesis son aproximadamente iguales a 1. $$\frac{(1+\frac{3}{2n}-\frac{1}{2n²})}{(1+\frac{2}{n^2}-\frac{2}{3n³})}≈1$$
 - Mientras que de los factorizados podemos llegar a que $$a_n≈\frac{2}{3n}$$
 
-## Límite (sucesiones)
+# Límite (sucesiones)
 
 Formalizar la idea de “comportamiento terminal”
 [GRÁFICO FUNCIÓN DECRECIENTE CON LÍMITE EN 5]
@@ -112,3 +112,4 @@ De términos grandes por lo menos, geométricas.
 [INVESTIGAR Y ADJUNTAR PLANTILLA DE RESOLUCIÓN]
 [<iframe src="https://www.matematicatuya.com/limite/S2a.html" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>](https://www.matematicatuya.com/limite/S2a.html)
 
+---

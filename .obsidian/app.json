@@ -12,5 +12,6 @@
   "showLineNumber": false,
   "strictLineBreaks": false,
   "readableLineLength": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": false
 }
