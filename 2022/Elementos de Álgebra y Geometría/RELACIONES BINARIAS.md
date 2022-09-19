@@ -13,7 +13,7 @@ Dada una relación R ⊆ A × A, diremos que R es reflexiva si aRa para todo a �
 Ejemplos:
 - Paralelismo: Sea A en conjunto de todas las rectas de un plano. Si l1, l2 ∈ A, (l1, l2) ∈ R ⇔ l1 es paralela a l2.
 - A = {1, 2, 3}, R = {(1, 1),(2, 2),(3, 3),(1, 2),(2, 1)}.
-- La igualdad: Si x, y ∈ A y R est´a definida por (x, y) ∈ R ⇔ x = y.
+- La igualdad: Si x, y ∈ A y R está definida por (x, y) ∈ R ⇔ x = y.
 - La relación “divide” en N. Dados a, b ∈ N definimos la siguiente relación: aRb ⇔ a divide a b, o sea, existe k ∈ N tal que b = k·a. En lugar de aRb notaremos a|b. Esta relación es reflexiva: a|a, para todo a ∈ N, pues a = k·a con k = 1.
 _Para ver si R es reflexiva, tengo que analizar si para todo a ∈ A, se tiene (a,a) ∈ R._
 De forma sencilla, para que haya reflexividad cada elemento debe estár relacionado consigo mismo.
@@ -25,7 +25,7 @@ Ejemplos:
 - Perpendicularidad: Sea A en conjunto de todas las rectas de un plano. Si l1, l2 ∈ A, entonces (l1, l2) ∈ R ⇔ l1 es perpendicular a l2.
 - A = {a, b, c}, R = {(a, b),(a, c),(b, a),(c, a)}.
 - A = {1, 2, 3}, R = {(1, 1),(2, 3),(3, 2)}.
-_Para ver si R es simétrica, tengo que analaizar si para cada (a,b) ∈ R, se tiene (b,a) ∈ R._
+_Para ver si R es simétrica, tengo que analizar si para cada (a,b) ∈ R, se tiene (b,a) ∈ R._
 De forma simple, para que haya simetría, cada relación que se presente entre elementos debe darse por ambos sentidos, (a,b) y (b,a).
 [DIAGRAMA CARTESIANO], 
 ![[Pasted image 20220823092926.png]]

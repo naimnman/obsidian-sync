@@ -62,3 +62,5 @@ Otro ejemplo de indeterminación puede ser $$lím~x\rightarrow \pi~ \frac{sen(x)
 Esto se debe a que el $sen(\pi)=0$, por lo que al aproximar $x$ a $\pi$ quedaría $\frac{0}{0}$.
 $$\frac{sen(x)}{-x+\pi}=\frac{sen(x-\pi+\pi)}{-(x-\pi)}$$
 [INVESTIGAR LO Q ME FALTA XD]
+
+---

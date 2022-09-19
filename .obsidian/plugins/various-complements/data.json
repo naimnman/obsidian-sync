@@ -206,8 +206,8 @@
     "ANÁLISIS MATEMÁTICO I": {
       "ANÁLISIS MATEMÁTICO I": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1663176227368
+          "count": 4,
+          "lastUpdated": 1663607815532
         }
       }
     },
@@ -422,8 +422,8 @@
     "\\rightarrow": {
       "\\rightarrow": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1663007110944
+          "count": 3,
+          "lastUpdated": 1663613014844
         }
       }
     },
@@ -486,8 +486,8 @@
     "discontinuidad": {
       "discontinuidad": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663179496833
+          "count": 2,
+          "lastUpdated": 1663609868424
         }
       }
     },
@@ -526,8 +526,8 @@
     "x\\rightarrow": {
       "x\\rightarrow": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1663182277008
+          "count": 5,
+          "lastUpdated": 1663613573043
         }
       }
     },
@@ -552,6 +552,94 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1663182490420
+        }
+      }
+    },
+    "analizar": {
+      "analizar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663202092537
+        }
+      }
+    },
+    "CONTINUIDAD II": {
+      "CONTINUIDAD II": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663607828295
+        }
+      }
+    },
+    "Cuando": {
+      "Cuando": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663608072810
+        }
+      }
+    },
+    "\\frac{x²-1}{\\sqrt{x-1}}": {
+      "\\frac{x²-1}{\\sqrt{x-1}}": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1663609329789
+        }
+      }
+    },
+    "\\frac{x²-3x+2}{x²-1}": {
+      "\\frac{x²-3x+2}{x²-1}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663609316339
+        }
+      }
+    },
+    "\\sqrt{x-1}": {
+      "\\sqrt{x-1}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1663609692572
+        }
+      }
+    },
+    "solución": {
+      "solución": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663611760748
+        }
+      }
+    },
+    "intervalo": {
+      "intervalo": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663612278830
+        }
+      }
+    },
+    "entonces": {
+      "entonces": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663612395004
+        }
+      }
+    },
+    "ecuacio": {
+      "ecuacio": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663613805191
+        }
+      }
+    },
+    "ecuación": {
+      "ecuación": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663613852394
         }
       }
     }
