@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/Elementos de Álgebra y Geometría/DIVISIBILIDAD DE ENTEROS.md",
+            "file": "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/Elementos de Álgebra y Geometría/DIVISIBILIDAD DE ENTEROS.md",
+                "file": "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022/Elementos de Álgebra y Geometría/DIVISIBILIDAD DE ENTEROS.md",
+                "file": "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022/Elementos de Álgebra y Geometría/DIVISIBILIDAD DE ENTEROS.md"
+                "file": "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "c1af2e4343513c3b",
   "lastOpenFiles": [
+    "2022/Análisis Matemático I/LAS FUNCIONES.md",
+    "2022/Análisis Matemático I/LOS NÚMEROS.md",
+    "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
+    "2022/GLOSARIO A.M.md",
+    "2022/Elementos de Álgebra y Geometría/DIVISIBILIDAD DE ENTEROS.md",
     "2022/Elementos de Álgebra y Geometría/ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA.md",
     "2022/Análisis Matemático I/CONTINUIDAD II.md",
-    "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
     "2022/Análisis Matemático I/CONTINUIDAD I.md",
-    "2022/GLOSARIO A.M.md",
     "2022/GLOSARIO E.A.G.md",
-    "2022/Análisis Matemático I/FUNCIONES.md",
-    "2022/Elementos de Álgebra y Geometría/NÚMEROS REALES.md",
-    "2022/Elementos de Álgebra y Geometría/RELACIONES BINARIAS.md",
-    "2022/Análisis Matemático I/LAS SUCESIONES NUMÉRICAS.md"
+    "2022/Análisis Matemático I/FUNCIONES.md"
   ]
 }

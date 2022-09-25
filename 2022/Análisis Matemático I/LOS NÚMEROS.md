@@ -22,8 +22,8 @@ La inclusión, denotada por ⊆, se da entre conjuntos, mientras que la pertenen
 #### Arquimedianidad:
 - Esta propiedad nos dice que con una regla arbitrariamente pequeña, y con mucha pa-
 ciencia, podemos medir longitudes arbitrariamente grandes. Simbólicamente, esta propiedad se expresa:
-Sean 0 < a, M ∈ R dos números reales positivos cualesquiera. Entonces existe k ∈ N tal que M < k · a.
-Aquí, a es la regla, M es el objeto a medir y k ∈ N es la cantidad de veces que hay que poner la regla a continuación de sí misma para superar el valor de M (es decir, el tamaño de la paciencia).
+Sean $0 < a$, $M ∈ R$ dos números reales positivos cualesquiera. Entonces existe $k ∈ N$ tal que $M < k · a$.
+Aquí, $a$ es la regla, $M$ es el objeto a medir y $k ∈ N$ es la cantidad de veces que hay que poner la regla a continuación de sí misma para superar el valor de $M$ (es decir, el tamaño de la paciencia).
 De manera informal, se puede expresar como la propiedad de no tener elementos infinitamente grandes ni infinitamente pequeños. A partir de esto, podemos llegar a que no hay número real más grande que cualquier número natural.
 
 ---
@@ -31,12 +31,12 @@ De manera informal, se puede expresar como la propiedad de no tener elementos in
 ## Notación científica:
 - __Dígitos significativos:__ Son aquellas cifras las cuales son distintas de cero, aunque también los ceros entre dos significativos también lo son y, pofloat double long double visual ranger último, los ceros al final de la parte decimal.
 - __Órden de magnitud:__ Indica la magnitud (tamaño tangible) del número a representar, se ve reflejado directamente en el exponente.
-- __Mantisa:__ La mantisa de un número decimal sería la parte fraccionaria, prescindiendo de su parte entera. Ex: Dado el número 12.31415, la mantisa sería 0,31415.
+- __Mantisa:__ La mantisa de un número decimal sería la parte fraccionaria, prescindiendo de su parte entera. _Ex: Dado el número $12.31415$, la mantisa sería $0,31415$._
 
 ---
 # Potenciación
 ## Propiedades:
-- __Producto de potencias de igual base:__ En un producto este estilo, se suman los exponentes y se mantiene la base.
+- __Producto de potencias de igual base:__ En un producto de este estilo, se suman los exponentes y se mantiene la base.
 - __Potencia de una potencia:__ Al encontrarse con una potencia elevada a otra potencia, se mantiene la base  y se multiplican los exponentes.
 
 ---
@@ -64,7 +64,7 @@ Daremos las dos versiones una con ínfimo y la otra con supremo estableciendo qu
 ## Funciones exponenciales:
 - __Básicas:__ $f(x)=a^x$. Para que esto se cumpla, $a > 0$ y $a ≠ 1$ con $a$ pertenenciente a los números reales.
 	- Dominio = R.
-	- Imagen: (0;+∞). Esto quiere decir $a^x=b>0$.
+	- Imagen: $(0;+∞)$. Esto quiere decir $a^x=b>0$.
 	- La función tiene su inversa: $log_{a}~x: (0, ∞)$ 
 	- La distribución del logaritmo en un producto: $$log_{a}~(u*v)=log_{a}~u+log_{a}~v$$ Con $u>0$ y $v>0$.
 	- El logaritmo de un número exponencial: $$log_{a}~(u^r)=r*log_{a}~u$$
@@ -77,7 +77,7 @@ Daremos las dos versiones una con ínfimo y la otra con supremo estableciendo qu
 		  Ejemplo: $-1<2$ = $(-1)²<2²$ = $1<4$.
 		- _Decreciente:_ una función es decreciente cuando invierte las desigualdades. 
 		  Cuando $0<a<1$, $a^x$ y $log_{a}~x$ __son decrecientes.__ 
-		  Ejemplo: $-2<1$ → $(-2)²>1²$ → $4>1$.
+		  Ejemplo: $-2<1$ → $(-2)^2>1²$ → $4>1$.
 ## Funciones Trigonométricas:
 - Semejanza: Implica proporcionalidad, si los lados son iguales, los ángulos también lo serán.
 
