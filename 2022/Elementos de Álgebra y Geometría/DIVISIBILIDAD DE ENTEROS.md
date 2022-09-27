@@ -49,7 +49,7 @@ El último resto no nulo es el máximo común divisor. Si el resto es cero en la
 - [Proposición 6.6]
 	- [Demostración]
 - [Definición 6.7]
-- [Proposición 6.8 (Euclides)]
+- __Proposición 6.8 (Euclides)__. Sean $a$, $b$, $c ∈ Z$. Si $c | a · b$ y $(a, c) = 1$ entonces $c | b$.
 - [Proposición 6.9]
 	- [Demostración ]
 ---
@@ -69,3 +69,25 @@ Si $a ∈ Z$, $a$ es divisible por $a, −a, 1, −1$, que se denominan los _div
 
 - __Teorema 6.14:__ Todo número entero $a \neq  0, 1, −1$ admite por lo menos un divisor primo positivo.
 	- __Demostración:__ Sea $m \in Z$,  _el menor entero mayor que 1 que divide a $a$_. Veamos que $m$ es primo. Si $m$ no fuera primo existiría $k ∈ Z$ tal que $1 < k < m$ y $k | m$. Como $m | a$, resulta $k | a$, lo que contradice la definición de $m$.
+
+---
+Ejercicio. __(La regla de oro de la Aritmética, según Gentile)__. _Si $p$ es primo y $p | a · b$ entonces $p | a$ ó $p | b$. Esta propiedad no vale si $p$ no es primo._ 
+(Dar el correspondiente contraejemplo).
+1. Probar que si $n\in Z$, entonces $2n+1$ y $\frac{1}{2}n(n+1)$ son coprimos.
+   - Observamos como $n$ y $n+1$ son enteros consecutivos, no de ellos es par, y así confirmamos que $\frac{1}{2}n(n+1)\in Z$.
+   - Sea $d=(2n+1, \frac{1}{2}n(n+1)$, por el absurdo, supongamos que $d\neq 1$.
+   - Como $d\neq 0, 1, -1$, admite divisor primo positivo $p$.
+      - Entonces, por transitividad, $p|2n+1$ y $p|n(n+1)$, 
+        - _cabe recalcar que por la Prop.(4) de divisibilidad de enteros, si $p|\frac{1}{2}n(n+1)$, entonces $p|2\cdot \frac{1}{2}n(n+1)$._
+   - De $p|n(n+1)$, debido a que $p$ es _primo_, aplicamos __la regla de oro__ y tenemos que $p|n$ ó $p|n+1$.
+   - Se bifurca la demostración en los dos siguientes casos:
+     1. $p|n$ y $p|2n+1$, entonces, por el siguiente absurdo; $p|1\cdot(2n+1)+(-2)\cdot(n)=1$, demostramos que es (1) es falso.
+     2. $p|n+1$ y $p|2n+1$, entonces, por el mismo absurdo que utilizamos en (1), $p|(-1)\cdot(2n+1)+2\cdot(n+1)=1$ tenemos que (2) también es falso. 
+   - Luego, $d=1$.
+---
+
+__Teorema 6.16 (Teorema Fundamental de la Aritmética):__
+Todo número entero $a\neq 0, 1, −1$, o bien es un número primo, o bien se puede escribir como $±1$ por un producto de números primos positivos (enfásis en $p\in N$, de lo contrario el teorema es falso). Esta representación de un entero como producto de primos es única, salvo el orden de los factores.
+[Demostración]
+
+
