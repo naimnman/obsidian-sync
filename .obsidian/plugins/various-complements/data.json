@@ -70,8 +70,8 @@
     "Propiedades": {
       "Propiedades": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662399069799
+          "count": 2,
+          "lastUpdated": 1664452544915
         }
       }
     },
@@ -134,8 +134,8 @@
     "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA": {
       "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1662639341115
+          "count": 3,
+          "lastUpdated": 1664450232056
         }
       }
     },
@@ -704,6 +704,46 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1664280244315
+        }
+      }
+    },
+    "\\cdot": {
+      "\\cdot": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664451470171
+        }
+      }
+    },
+    "\\lambda": {
+      "\\lambda": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664451682695
+        }
+      }
+    },
+    "Geométricamente": {
+      "Geométricamente": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664454847955
+        }
+      }
+    },
+    "r_{2}": {
+      "r_{2}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664454892385
+        }
+      }
+    },
+    "Eliminación": {
+      "Eliminación": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664455033398
         }
       }
     }
