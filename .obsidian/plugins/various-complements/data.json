@@ -43,51 +43,11 @@
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "sobreyectiva": {
-      "sobreyectiva": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662398797980
-        }
-      }
-    },
-    "decir": {
-      "decir": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662398808895
-        }
-      }
-    },
-    "log_{a}": {
-      "log_{a}": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1662399799464
-        }
-      }
-    },
     "Propiedades": {
       "Propiedades": {
         "currentFile": {
           "count": 2,
           "lastUpdated": 1664452544915
-        }
-      }
-    },
-    "producto": {
-      "producto": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662399177440
-        }
-      }
-    },
-    "logaritmo": {
-      "logaritmo": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662399238659
         }
       }
     },
@@ -99,35 +59,11 @@
         }
       }
     },
-    "desigualdades": {
-      "desigualdades": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662399445571
-        }
-      }
-    },
     "función": {
       "función": {
         "currentFile": {
           "count": 2,
           "lastUpdated": 1663180385768
-        }
-      }
-    },
-    "Logaritmo": {
-      "Logaritmo": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662400615926
-        }
-      }
-    },
-    "Biyectiva": {
-      "Biyectiva": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662404656208
         }
       }
     },
@@ -139,54 +75,6 @@
         }
       }
     },
-    "NÚMEROS REALES": {
-      "NÚMEROS REALES": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1662463181112
-        }
-      }
-    },
-    "Inyectiva": {
-      "Inyectiva": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662464568458
-        }
-      }
-    },
-    "Sobreyectiva": {
-      "Sobreyectiva": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662464573734
-        }
-      }
-    },
-    "inducción": {
-      "inducción": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1662466329723
-        }
-      }
-    },
-    "verdadera": {
-      "verdadera": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1662466254498
-        }
-      }
-    },
-    "principio": {
-      "principio": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662466327489
-        }
-      }
-    },
     "proposición": {
       "proposición": {
         "currentFile": {
@@ -195,19 +83,11 @@
         }
       }
     },
-    "Epiyectiva": {
-      "Epiyectiva": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1662560777857
-        }
-      }
-    },
     "ANÁLISIS MATEMÁTICO I": {
       "ANÁLISIS MATEMÁTICO I": {
         "internalLink": {
-          "count": 4,
-          "lastUpdated": 1663607815532
+          "count": 5,
+          "lastUpdated": 1664990121398
         }
       }
     },
@@ -744,6 +624,46 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1664455033398
+        }
+      }
+    },
+    "DERIVABILIDAD I": {
+      "DERIVABILIDAD I": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1664991239281
+        }
+      }
+    },
+    "}{x-x_{0}}": {
+      "}{x-x_{0}}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664991980768
+        }
+      }
+    },
+    "\\implies": {
+      "\\implies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664995197194
+        }
+      }
+    },
+    "constante\\cdot": {
+      "constante\\cdot": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1664995509982
+        }
+      }
+    },
+    "\\frac{f": {
+      "\\frac{f": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664995855467
         }
       }
     }

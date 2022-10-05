@@ -6,11 +6,17 @@
 Una matriz $m × n$ (o de orden $m × n$) es un cuadro de números con $m$ filas (horizontales) y $n$ columnas (verticales): $$\begin{pmatrix}a_{11}& a_{12}&...&a_{1n}\\a_{21}& a_{22}&...&a_{2n}\\ \vdots & \vdots & \ddots & \vdots 
  \\a_{m1} & a_{m2} & \cdots & a_{mn}\end{pmatrix}$$
  Si $m = n$, $A$ se dice una __matriz cuadrada de orden $n$__. El número $a_{ij}$ es el elemento de la matriz que está en la _fila_ $i$ y en la _columna_ $j$.
- A veces usaremos la notaci´on A = (aij ), 1 ≤ i ≤ m, 1 ≤ j ≤ n, para designar una matriz de orden m × n. Si n = 1, la matriz tiene una sola columna y se llama matriz columna. 
- De la misma manera, si m = 1, la matriz tiene una sola fila y se llama matriz fila. 
- Dos matrices m × n, A = (aij ) y B = (bij ), son iguales si aij = bij para todos los valores posibles de los sub´ındices i y j.
+ 
+ A veces usaremos la notación $A = (a_{ij})$, $1 ≤ i ≤ m$, $1 ≤ j ≤ n$, para designar una matriz de orden $m × n$.
+ Si $n = 1$, la matriz tiene una sola columna y se llama matriz columna. De la misma manera, si $m = 1$, la matriz tiene una sola fila y se llama matriz fila.
+- ==Síntesis==:
+	- $m=n$: Matriz cuadrada.
+	- $m=0 \land n=1$: Matriz columna.
+	- $m=1 \land n=0$: Matriz fila.
 
-__Definición 10.1:__ La suma de dos matrices $A$ y $B$ de orden $m×n$ es otra matriz $m×n$ que se obtiene sumando los elementos correspondientes de A y B. En s´ımbolos, si A = (aij ) y B = (bij ), entonces A + B = (aij ) + (bij ) = (aij + bij ).
+ Dos matrices $m × n$, $A = (a_{ij})$ y $B = (b_{ij})$, son iguales si $a_{ij} = b_{ij}$ para todos los valores posibles de los subı́ndices $i$ y $j$.
+
+__Definición 10.1:__ La suma de dos matrices $A$ y $B$ de orden $m×n$ es otra matriz $m×n$ que se obtiene sumando los elementos correspondientes de A y B. En s´ımbolos, si $A = (a_{ij})$ y $B = (b_{ij})$, entonces $A + B = (a_{ij}) + (b_ij) = (a_{ij}+ b_{ij})$.
 
 ==Requisito para el producto de matrices de distinto órden:== __La cantidad de columnas del primer factor igual a la cantidad de filas del segundo.__ Además, no es redundante recalcar que esta operación, efectivamente, tiene órden. [IMÁGEN]
 

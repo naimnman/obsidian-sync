@@ -16,3 +16,8 @@
 - Continuidad: 
 - Salto: 
 - Asíntota vertical:
+
+# [[DERIVABILIDAD I]] 
+- Recta secante: <iframe src="https://es.wikipedia.org/wiki/Recta_secante" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+- Recta tangente: <iframe src="https://es.wikipedia.org/wiki/Recta_tangente" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+- 
