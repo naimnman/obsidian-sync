@@ -1,6 +1,6 @@
 {
   "strategy": "default",
-  "matchStrategy": "prefix",
+  "matchStrategy": "partial",
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
@@ -46,8 +46,8 @@
     "Propiedades": {
       "Propiedades": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1664452544915
+          "count": 3,
+          "lastUpdated": 1665054733024
         }
       }
     },
@@ -70,16 +70,8 @@
     "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA": {
       "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA": {
         "internalLink": {
-          "count": 3,
-          "lastUpdated": 1664450232056
-        }
-      }
-    },
-    "proposición": {
-      "proposición": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1662636170114
+          "count": 4,
+          "lastUpdated": 1665058767706
         }
       }
     },
@@ -96,70 +88,6 @@
         "internalLink": {
           "count": 5,
           "lastUpdated": 1663176265680
-        }
-      }
-    },
-    "LAS SUCESIONES NUMÉRICAS": {
-      "LAS SUCESIONES NUMÉRICAS": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1662571626763
-        }
-      }
-    },
-    "recursiva": {
-      "recursiva": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662573965979
-        }
-      }
-    },
-    "sucesión": {
-      "sucesión": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1662574102677
-        }
-      }
-    },
-    "aritmética": {
-      "aritmética": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1662574168236
-        }
-      }
-    },
-    "Suceciones": {
-      "Suceciones": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662574315084
-        }
-      }
-    },
-    "a_0+R": {
-      "a_0+R": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662574944280
-        }
-      }
-    },
-    "\\frac{}": {
-      "\\frac{}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662576488765
-        }
-      }
-    },
-    "DIVISIBILIDAD DE ENTEROS": {
-      "DIVISIBILIDAD DE ENTEROS": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1662639367914
         }
       }
     },
@@ -664,6 +592,94 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1664995855467
+        }
+      }
+    },
+    "SISTEMAS DE ECUACIONES LINEALES, MATRICES Y DETERMINANTES": {
+      "SISTEMAS DE ECUACIONES LINEALES, MATRICES Y DETERMINANTES": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1665055194330
+        }
+      }
+    },
+    "\\begin{pmatrix}a_{11}&": {
+      "\\begin{pmatrix}a_{11}&": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1665056758503
+        }
+      }
+    },
+    "calcular": {
+      "calcular": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665056462938
+        }
+      }
+    },
+    "A^{-1}": {
+      "A^{-1}": {
+        "currentFile": {
+          "count": 8,
+          "lastUpdated": 1665057266870
+        }
+      }
+    },
+    "CONCHAAA": {
+      "CONCHAAA": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665056704781
+        }
+      }
+    },
+    "lineales": {
+      "lineales": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665056718985
+        }
+      }
+    },
+    "\\begin{equation}A": {
+      "\\begin{equation}A": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665056746632
+        }
+      }
+    },
+    "\\end{matrix}": {
+      "\\end{matrix}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665056781620
+        }
+      }
+    },
+    "determinado__": {
+      "determinado__": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665057468648
+        }
+      }
+    },
+    "VECTORES": {
+      "VECTORES": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1665060955808
+        }
+      }
+    },
+    "\\mathbb{R}": {
+      "\\mathbb{R}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665061102053
         }
       }
     }

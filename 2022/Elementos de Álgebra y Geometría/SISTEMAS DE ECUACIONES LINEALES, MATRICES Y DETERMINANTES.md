@@ -1,6 +1,6 @@
 # [[ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA]] 
 ---
-# TEMA 9: SISTEMAS DE ECUACIONES LINEALES, MATRICES Y DETERMINANTES.
+# TEMA 9: SISTEMAS DE EUntitledCUACIONES LINEALES, MATRICES Y DETERMINANTES.
 
 ## 10.1 MATRICES:
 Una matriz $m × n$ (o de orden $m × n$) es un cuadro de números con $m$ filas (horizontales) y $n$ columnas (verticales): $$\begin{pmatrix}a_{11}& a_{12}&...&a_{1n}\\a_{21}& a_{22}&...&a_{2n}\\ \vdots & \vdots & \ddots & \vdots 
@@ -66,3 +66,50 @@ Un sistema de $n$ números $k1, k2, . . . , kn$, es una solución del sistema de
 
 Si durante la aplicación del método de eliminación de Gauss alguna de las matrices intermedias tiene una fila con todos los elementos nulos excepto el último, es decir, una fila de la forma $$\begin{matrix}0 & 0 & · · · & 0 & b \end{matrix}$$con $b \neq 0$,
 entonces el sistema es incompatible, ya que esa fila corresponde a una ecuación $0_{x1} + 0_{x2} + · · · + 0_{xn} = b$ que no tiene solución.
+
+---
+[CLASE FALLIDA XD]
+
+---
+
+## Propiedades de las Determinantes 
+- $det(A\cdot B) = det(A)\cdot det(B)$
+	- Siempre que $A$ y $B$ sean matrices cuadradas del mismo orden.
+- $det(A\urcorner)= det(A)$
+- Observación: 
+	-  $det(A+B)\neq det(A)+det(B)$
+	- $det(0_{nm})=0$
+	- $det(I_{n})=1$
+
+---
+
+## Matrices inversas
+Para cada elemento de la matriz, consideramos la submatriz que queda al eliminar la correspondiente fila y columna, y calculamos su determinante.
+__El determinante de la submatriz se llama__ _menor complementario_ $(M_{ij})$ _del elemento_ $a_{ij}$ tomado.
+
+Complemento algebraico o cofactor: A_ij = (-1)^i+j * M_ij
+- Básicamente, dependiendo de la paridad de i+j, se cambia el signo o se mantiene.
+
+Con los $A_{ij}$ armamos la matriz adjunta de $A$: $$\begin{equation}A=\begin{bmatrix} 1& -1& 2 \\ 0& 1& 3 \\ 1& -1& 0 \end{bmatrix}\end{equation} $$
+$$\begin{equation}adjA=\begin{bmatrix} 3& 3& -1 \\ -2& -2& 0 \\ -5& -3& 1 \end{bmatrix}\end{equation} $$
+La inversa de A es: $$A^{-1}=\frac{(adj(A))^T}{det A}$$
+En este ejemplo, $det A = -2$, por lo que $$\begin{equation}A^{-1}=\frac{1}{-2}\begin{bmatrix} 3& -2& -5 \\ 3& -2& -3 \\ -1& 0& 1 \end{bmatrix}\end{equation}=\begin{bmatrix} -3/2& 1& 5/2 \\ -3/2& 1& 3/2 \\ 1/2& 0& -1/2 \end{bmatrix}$$
+Observaciones:
+- Existe $A^{-1} \iff det A \neq 0$ 
+- Conviene calcular $det A$ antes de calcular la matriz adjunta
+- [LA CONCHAAA]
+
+Para verificar, alcanza con comprobar una sola de las igualdades $$A\cdot A^{-1} = I_{n} = A^{-1} \cdot A = I_{n}$$
+Mejor aún, como $A^{-1} =\frac{(adj(A))^T}{det A}$, podemos comprobar si [LA CONCHAAA]
+
+Forma matricial de un sistema de ecuaciones lineales 
+[SCREENCHOT]
+
+Definimos $$\begin{equation}A=\begin{pmatrix}a_{11}& a_{12} & \dots & a_{1n} \\ a_{21} & a_{22} & \dots & a_{2n} \\ \vdots & \vdots & \ddots &\vdots  \\ a_{m1} & a_{m2} & \dots & a_{mn} \end{pmatrix} \end{equation}$$
+
+---
+Si $A$ es cuadrada e inversible, es decir, hay tantas ecuaciones como incógnitas ($n$) y existe $A^{-1}$, entonces 
+$$\begin{split} A\cdot X=B \iff \newline A^{-1} \cdot A\cdot X= A^{-1} \cdot B \iff \newline I_{n} \cdot X = A^{-1} \cdot B \iff \newline X = A^{-1} \cdot B \end{split}$$
+En particular, el sistema lineal es compatible determinado
+
+Si en un sistema lineal de $n$ ecuaciones con $n$ incógnitas la matriz de coeficientes $A$ tiene determinante no nulo, entonces el sistema es compatible determinado.

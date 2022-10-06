@@ -88,9 +88,9 @@
   "editor:focus": [
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
-      "key": "Tab"
+      "key": "]"
     }
   ],
   "hotkeysplus-obsidian:clear-current-line": [
@@ -101,11 +101,72 @@
       "key": "D"
     }
   ],
-  "editor:delete-paragraph": [],
   "obsidian-fullscreen-plugin:fullscreen-focus": [
     {
       "modifiers": [],
       "key": "F11"
     }
-  ]
+  ],
+  "editor:delete-paragraph": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "hotkeysplus-obsidian:insert-line-below": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ],
+  "hotkeysplus-obsidian:insert-line-above": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "editor:attach-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "various-complements:add-word-custom-dictionary": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "various-complements:show-suggestions": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "obsidian-completr:completr-jump-to-next-snippet-placeholder": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:follow-link": []
 }
