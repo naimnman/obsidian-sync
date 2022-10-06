@@ -22,10 +22,10 @@ Vamos a dar una definición preliminar de la noción de vector. Definimos un vec
 
 ![[Pasted image 20221006094151.png]]
 
-Esta definición funciona tanto en el plano como en el espacio. Escribiremos lo siguiente pensando que estamos trabajando en el espacio, y en el plano simplemente habrá que usar pares en vez de ternas. Usando esta definición, podemos asociar a cada vector a el punto (a1 , a2 , a3 ) donde a termina (es decir, las coordenadas de la punta de la flecha). Recı́procamente, a cada punto (a1 , a2, a3 ) del espacio le hacemos corresponder el vector a que será una flecha desde el origen hasta dicho punto. Ası́, identificaremos a con (a1 , a2 , a3 ) y escribiremos a = (a1 , a2, a3 ).
+Esta definición funciona tanto en el plano como en el espacio. Escribiremos lo siguiente pensando que estamos trabajando en el espacio, y en el plano simplemente habrá que usar pares en vez de ternas. Usando esta definición, podemos asociar a cada vector a el punto $(a_{2} , a_{2} , a_{3})$ donde a termina (es decir, las coordenadas de la punta de la flecha). Recı́procamente, a cada punto $(a_{2} , a_{2} , a_{3})$ del espacio le hacemos corresponder el vector a que será una flecha desde el origen hasta dicho punto. Ası́, identificaremos a con $(a_{2} , a_{2} , a_{3})$ y escribiremos $a = (a_{1} , a_{2}, a_{3} )$.
 $$\begin{equation} a= \begin{dmatrix} 1 \\ 2 \end{dmatrix} \end{equation}$$
 $$\begin{equation} v= \begin{dmatrix} 0 \\ -1 \\ 5\end{dmatrix} \end{equation}$$
-Sin embargo, por comodidad en la escritura seguiremos usando la notación a = (1, 2), v=(0, −1, 5) por ahora.
+Sin embargo, por comodidad en la escritura seguiremos usando la notación $a = (1, 2)$, $v=(0, −1, 5)$ por ahora.
 
 ## Suma de vectores
 Definimos la suma de vectores (pensados como flechas) con la llamada regla del paralelogramo, como sigue. Para sumar los vectores a = (a1 , a2, a3 ) y b = (b1 , b2 , b3) consideramos el paralelogramo que tiene a y b como lados adyacentes (ver figura 1). La suma a + b se define como el vector que va a lo largo de la diagonal.
