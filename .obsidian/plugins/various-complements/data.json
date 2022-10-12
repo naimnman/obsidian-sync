@@ -51,14 +51,6 @@
         }
       }
     },
-    "Decreciente": {
-      "Decreciente": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1663002607954
-        }
-      }
-    },
     "función": {
       "función": {
         "currentFile": {
@@ -78,8 +70,8 @@
     "ANÁLISIS MATEMÁTICO I": {
       "ANÁLISIS MATEMÁTICO I": {
         "internalLink": {
-          "count": 5,
-          "lastUpdated": 1664990121398
+          "count": 6,
+          "lastUpdated": 1665598273524
         }
       }
     },
@@ -91,187 +83,11 @@
         }
       }
     },
-    "k\\in{Z}": {
-      "k\\in{Z}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662641487127
-        }
-      }
-    },
-    "Remplazando": {
-      "Remplazando": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1662641523689
-        }
-      }
-    },
-    "sucesiones": {
-      "sucesiones": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663002521737
-        }
-      }
-    },
-    "a_{184}": {
-      "a_{184}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663002676436
-        }
-      }
-    },
-    "infinito”": {
-      "infinito”": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663003022739
-        }
-      }
-    },
-    "a_{n}\\approx{L}": {
-      "a_{n}\\approx{L}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663003116562
-        }
-      }
-    },
-    "L-\\epsilon": {
-      "L-\\epsilon": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663004047672
-        }
-      }
-    },
-    "L+\\epsilon": {
-      "L+\\epsilon": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663004062033
-        }
-      }
-    },
-    "\\epsilon": {
-      "\\epsilon": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1663004280325
-        }
-      }
-    },
-    "\\forall\\epsilon": {
-      "\\forall\\epsilon": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663004649748
-        }
-      }
-    },
-    "n\\geq{n_0}": {
-      "n\\geq{n_0}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663004772736
-        }
-      }
-    },
-    "cualquiera": {
-      "cualquiera": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663005195251
-        }
-      }
-    },
-    "\\forall{M}": {
-      "\\forall{M}": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663005655479
-        }
-      }
-    },
-    "arquimedianidad": {
-      "arquimedianidad": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663005818322
-        }
-      }
-    },
-    "+\\infty": {
-      "+\\infty": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1663006277591
-        }
-      }
-    },
-    "\\frac{": {
-      "\\frac{": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663006295833
-        }
-      }
-    },
-    "límites": {
-      "límites": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663006389608
-        }
-      }
-    },
     "\\rightarrow": {
       "\\rightarrow": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1663613014844
-        }
-      }
-    },
-    "\\infty": {
-      "\\infty": {
-        "currentFile": {
-          "count": 4,
-          "lastUpdated": 1663007888203
-        }
-      }
-    },
-    "\\frac{a_{n}}{b_{n}}": {
-      "\\frac{a_{n}}{b_{n}}": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1663007607815
-        }
-      }
-    },
-    "Indeterminaciones": {
-      "Indeterminaciones": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663007679813
-        }
-      }
-    },
-    "geométrica": {
-      "geométrica": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663008336931
-        }
-      }
-    },
-    "\\nmid": {
-      "\\nmid": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663068165211
+          "count": 5,
+          "lastUpdated": 1665601384529
         }
       }
     },
@@ -526,8 +342,8 @@
     "\\lambda": {
       "\\lambda": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1664451682695
+          "count": 2,
+          "lastUpdated": 1665488103473
         }
       }
     },
@@ -566,16 +382,16 @@
     "}{x-x_{0}}": {
       "}{x-x_{0}}": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1664991980768
+          "count": 2,
+          "lastUpdated": 1665596220602
         }
       }
     },
     "\\implies": {
       "\\implies": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1664995197194
+          "count": 3,
+          "lastUpdated": 1665600867623
         }
       }
     },
@@ -670,8 +486,8 @@
     "VECTORES": {
       "VECTORES": {
         "internalLink": {
-          "count": 2,
-          "lastUpdated": 1665060955808
+          "count": 3,
+          "lastUpdated": 1665488272419
         }
       }
     },
@@ -680,6 +496,182 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1665061102053
+        }
+      }
+    },
+    "\\end{equation}": {
+      "\\end{equation}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665089587928
+        }
+      }
+    },
+    "2\\end{bmatrix}": {
+      "2\\end{bmatrix}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665089749614
+        }
+      }
+    },
+    "\\overrightarrow{PQ}": {
+      "\\overrightarrow{PQ}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665487212548
+        }
+      }
+    },
+    "tienen": {
+      "tienen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665487621066
+        }
+      }
+    },
+    "a_{3}": {
+      "a_{3}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665488467301
+        }
+      }
+    },
+    "cualquier": {
+      "cualquier": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665488476709
+        }
+      }
+    },
+    "Entonces": {
+      "Entonces": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665488487483
+        }
+      }
+    },
+    "gráfico": {
+      "gráfico": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665595466013
+        }
+      }
+    },
+    "aproximación": {
+      "aproximación": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1665598111368
+        }
+      }
+    },
+    "debemos": {
+      "debemos": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665596078892
+        }
+      }
+    },
+    "tangente": {
+      "tangente": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665596188557
+        }
+      }
+    },
+    "x_{0}": {
+      "x_{0}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665596692866
+        }
+      }
+    },
+    "Además": {
+      "Además": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665596956813
+        }
+      }
+    },
+    "\\longrightarrow": {
+      "\\longrightarrow": {
+        "currentFile": {
+          "count": 10,
+          "lastUpdated": 1665601842843
+        }
+      }
+    },
+    "P_{2}": {
+      "P_{2}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665597265543
+        }
+      }
+    },
+    "INTRODUCCIÓN A DESARROLLO WEB Y APLICACIONES": {
+      "INTRODUCCIÓN A DESARROLLO WEB Y APLICACIONES": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1665598355991
+        }
+      }
+    },
+    "monotonía": {
+      "monotonía": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665599580390
+        }
+      }
+    },
+    "estrictamente": {
+      "estrictamente": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1665601401380
+        }
+      }
+    },
+    "decreciente": {
+      "decreciente": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1665601965089
+        }
+      }
+    },
+    "\\frac{1}{x}": {
+      "\\frac{1}{x}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665600613060
+        }
+      }
+    },
+    "bordes": {
+      "bordes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665601292980
+        }
+      }
+    },
+    "\\infty": {
+      "\\infty": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665601333556
         }
       }
     }

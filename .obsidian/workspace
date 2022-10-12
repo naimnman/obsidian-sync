@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "346946e33b69e2cd",
+        "id": "2b0a76295296c2cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/Elementos de Álgebra y Geometría/VECTORES.md",
+            "file": "2022/Análisis Matemático I/DERIVABILIDAD II.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/Elementos de Álgebra y Geometría/VECTORES.md",
+                "file": "2022/Análisis Matemático I/DERIVABILIDAD II.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022/Elementos de Álgebra y Geometría/VECTORES.md",
+                "file": "2022/Análisis Matemático I/DERIVABILIDAD II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022/Elementos de Álgebra y Geometría/VECTORES.md"
+                "file": "2022/Análisis Matemático I/DERIVABILIDAD II.md"
               }
             }
           }
@@ -130,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "346946e33b69e2cd",
+  "active": "2b0a76295296c2cb",
   "lastOpenFiles": [
+    "2022/Análisis Matemático I/DERIVABILIDAD I.md",
+    "2022/Análisis Matemático I/DERIVABILIDAD II.md",
+    "2022/Análisis Matemático I/CONTINUIDAD I.md",
+    "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
+    "2022/Elementos de Álgebra y Geometría/VECTORES.md",
     "2022/Elementos de Álgebra y Geometría/ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA.md",
     "2022/Elementos de Álgebra y Geometría/SISTEMAS DE ECUACIONES LINEALES, MATRICES Y DETERMINANTES.md",
     "Untitled.md",
     "2022/GLOSARIO E.A.G.md",
-    "2022/Análisis Matemático I/DERIVABILIDAD I.md",
-    "2022/GLOSARIO A.M.md",
-    "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
-    "2022/Análisis Matemático I/CONTINUIDAD I.md",
-    "2022/Análisis Matemático I/LAS SUCESIONES NUMÉRICAS.md",
-    "2022/Análisis Matemático I/LAS FUNCIONES.md"
+    "2022/GLOSARIO A.M.md"
   ]
 }

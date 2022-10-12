@@ -23,8 +23,11 @@ Vamos a dar una definición preliminar de la noción de vector. Definimos un vec
 ![[Pasted image 20221006094151.png]]
 
 Esta definición funciona tanto en el plano como en el espacio. Escribiremos lo siguiente pensando que estamos trabajando en el espacio, y en el plano simplemente habrá que usar pares en vez de ternas. Usando esta definición, podemos asociar a cada vector a el punto $(a_{2} , a_{2} , a_{3})$ donde a termina (es decir, las coordenadas de la punta de la flecha). Recı́procamente, a cada punto $(a_{2} , a_{2} , a_{3})$ del espacio le hacemos corresponder el vector a que será una flecha desde el origen hasta dicho punto. Ası́, identificaremos a con $(a_{2} , a_{2} , a_{3})$ y escribiremos $a = (a_{1} , a_{2}, a_{3} )$.
-$$\begin{equation} a= \begin{dmatrix} 1 \\ 2 \end{dmatrix} \end{equation}$$
-$$\begin{equation} v= \begin{dmatrix} 0 \\ -1 \\ 5\end{dmatrix} \end{equation}$$
+$$\begin{equation}
+a= \begin{bmatrix} 1 \\ 2  \end{bmatrix}, v=\begin{bmatrix} 0 \\ 2\end{bmatrix} 
+\end{equation}$$
+
+\end{equation} v= 
 Sin embargo, por comodidad en la escritura seguiremos usando la notación $a = (1, 2)$, $v=(0, −1, 5)$ por ahora.
 
 ## Suma de vectores
@@ -50,3 +53,26 @@ La diferencia de vectores se calcula ası́: $a − b = a + (−1)b$. Es decir, 
 
 ---
 # 4. Vectores libres
+Definimos a los vectores, también llamados vectores libres, como segmentos dirigidos en el plano o en el espacio (a diferencia de antes, no pedimos que partan del origen). Aquellos segmentos que se pueden obtener uno de otro mediante traslaciones paralelas (sin rotaciones) se consideran como el mismo vector.
+![[Pasted image 20221011081412.png]]
+
+Las componentes de un vector se obtienen de cualquiera de las siguientes formas.
+- **Geométricamente:** trasladándolo de forma tal de que parta del origen y tomando las coordenadas del extremo final.
+- **Algebraicamente:** Si el vector va del punto $P$ al punto $Q$, las componentes se calculan como las coordenadas de $Q$ menos las de $P$.
+Por ejemplo, el vector que va de $P (5, 5)$ a $Q(7, 8)$ es $(2, 3)$. Se lo denota $\overrightarrow{PQ}$. Si denotamos al punto en el origen $(0, 0)$ con la letra $O$ y consideramos al punto $R(2, 3)$, resulta que $\overrightarrow{OR} = (2, 3) = \overrightarrow{PQ}$. Es decir, los extremos de las dos flechas son distintos, pero representan al mismo vector.
+
+**La suma de vectores libres** se puede calcular como antes, es decir, trasladamos ambos vectores para que partan del origen, _consideramos el paralelogramo que forman y tomamos la diagonal del mismo_. Pero hay otra forma equivalente de ver una suma $a + b$. Trasladamos $b$ de forma que parta desde el extremo final de $a$, quedando ası́ uno a continuación del otro. **La suma aparecerá como el vector que va del extremo inicial de a al extremo final de b** (figura 2). Si invertimos los roles, colocando a a continuación de $b$, el vector que resultará será el mismo.
+![[Pasted image 20221011082254.png]]
+
+# 5. Módulo
+**El módulo de un vector $a$ es su longitud**. Se denota $\|a\|$, y es un número real no negativo, aunque puede dar $0$, pero sólo en el caso de que a sea el vector nulo.
+En el plano, si $a=(a_{1}, a_{2})$, usando el teorema de Pitágoras se tienen $\|a\| = \sqrt{a^2_{1}+a²_{2}}$.  En el espacio, si $a = (a_{1} , a_{2}, a_{3} )$ entonces $\|a\| = \sqrt{a^2_{1}+a²_{2}+a²_{3} }$. En realidad estas fórmulas son válidas si elegimos ejes que sean perpendiculares entre sı́ y con la misma unidad de medida, quedando el módulo expresado en esa misma unidad de medida. Existen situaciones donde esto no es ası́.
+Observemos, de la definición de producto por un escalar, que $\|\lambda a\| = |\lambda| \|a\|$. Es decir, los escalares “salen” del módulo, pero en valor absoluto.
+Un vector de módulo 1 recibe el nombre de vector unitario. Notemos que **podemos “transformar” cualquier vector no nulo en uno unitario dividiéndolo por su módulo**. Esto es, si $a \neq 0$, entonces $a/\|a\|$ tiene la misma dirección y sentido que $a$, y módulo $1$. Este proceso se llama normalizar el vector $a$.
+
+# 6. Base estandar de vectores
+Una vez elegido un sistema de coordenadas, es conveniente definir tres vectores particulares a lo largo de los ejes x, y, z:
+$$i=(1,0,0); j=(0,1,0); k=(0,0,1)$$
+Estos forman la llamada base standard de vectores (figura 3). También se los denota a veces $e_{1}, e_{2}, e_{3}$. En el plano, tendremos una componente menos y un vector menos: $i = (1, 0)$, $j = (0, 1)$.
+![[Pasted image 20221011083933.png]]
+Sea $a=(a_{1}, a_{2}, a_{3})$ cualquier vector. Entonces $a = a_{1}i + a_{2}j + a_{3}k$, ya que desarrolando se obtiene $$a_{1}i + a2 j + a3 k = a1 (1, 0, 0) + a2 (0, 1, 0) + a3 (0, 0, 1) = (a1 , a2, a3 )$$.
