@@ -51,14 +51,6 @@
         }
       }
     },
-    "función": {
-      "función": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1663180385768
-        }
-      }
-    },
     "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA": {
       "ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA": {
         "internalLink": {
@@ -75,35 +67,11 @@
         }
       }
     },
-    "FUNCIONES": {
-      "FUNCIONES": {
-        "internalLink": {
-          "count": 5,
-          "lastUpdated": 1663176265680
-        }
-      }
-    },
     "\\rightarrow": {
       "\\rightarrow": {
         "currentFile": {
           "count": 5,
           "lastUpdated": 1665601384529
-        }
-      }
-    },
-    "Funciones": {
-      "Funciones": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663176261268
-        }
-      }
-    },
-    "CONTINUIDAD I": {
-      "CONTINUIDAD I": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1663177156914
         }
       }
     },
@@ -115,75 +83,11 @@
         }
       }
     },
-    "interpreta": {
-      "interpreta": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663179887638
-        }
-      }
-    },
-    "gráficamente": {
-      "gráficamente": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663179889722
-        }
-      }
-    },
-    "indeterminación": {
-      "indeterminación": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1663182238127
-        }
-      }
-    },
-    "polinomios": {
-      "polinomios": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663180337423
-        }
-      }
-    },
     "x\\rightarrow": {
       "x\\rightarrow": {
         "currentFile": {
           "count": 5,
           "lastUpdated": 1663613573043
-        }
-      }
-    },
-    "límite": {
-      "límite": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663180981622
-        }
-      }
-    },
-    "trigonométricas": {
-      "trigonométricas": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663181769714
-        }
-      }
-    },
-    "Cálculo": {
-      "Cálculo": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663182490420
-        }
-      }
-    },
-    "analizar": {
-      "analizar": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1663202092537
         }
       }
     },
@@ -342,8 +246,8 @@
     "\\lambda": {
       "\\lambda": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1665488103473
+          "count": 3,
+          "lastUpdated": 1665660828354
         }
       }
     },
@@ -518,8 +422,8 @@
     "\\overrightarrow{PQ}": {
       "\\overrightarrow{PQ}": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1665487212548
+          "count": 3,
+          "lastUpdated": 1665662736009
         }
       }
     },
@@ -550,8 +454,8 @@
     "Entonces": {
       "Entonces": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1665488487483
+          "count": 2,
+          "lastUpdated": 1665662479652
         }
       }
     },
@@ -672,6 +576,22 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1665601333556
+        }
+      }
+    },
+    "recta": {
+      "recta": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665661699971
+        }
+      }
+    },
+    "correcta": {
+      "correcta": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665661704852
         }
       }
     }

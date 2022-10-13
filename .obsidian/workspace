@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/Análisis Matemático I/DERIVABILIDAD II.md",
+            "file": "2022/Elementos de Álgebra y Geometría/VECTORES.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
+    "width": 252,
     "collapsed": true
   },
   "right": {
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/Análisis Matemático I/DERIVABILIDAD II.md",
+                "file": "2022/Elementos de Álgebra y Geometría/VECTORES.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022/Análisis Matemático I/DERIVABILIDAD II.md",
+                "file": "2022/Elementos de Álgebra y Geometría/VECTORES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022/Análisis Matemático I/DERIVABILIDAD II.md"
+                "file": "2022/Elementos de Álgebra y Geometría/VECTORES.md"
               }
             }
           }
@@ -127,17 +127,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 252,
     "collapsed": true
   },
   "active": "2b0a76295296c2cb",
   "lastOpenFiles": [
-    "2022/Análisis Matemático I/DERIVABILIDAD I.md",
+    "2022/Elementos de Álgebra y Geometría/ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA.md",
     "2022/Análisis Matemático I/DERIVABILIDAD II.md",
+    "2022/Análisis Matemático I/DERIVABILIDAD I.md",
     "2022/Análisis Matemático I/CONTINUIDAD I.md",
     "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
     "2022/Elementos de Álgebra y Geometría/VECTORES.md",
-    "2022/Elementos de Álgebra y Geometría/ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA.md",
     "2022/Elementos de Álgebra y Geometría/SISTEMAS DE ECUACIONES LINEALES, MATRICES Y DETERMINANTES.md",
     "Untitled.md",
     "2022/GLOSARIO E.A.G.md",
