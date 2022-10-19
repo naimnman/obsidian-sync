@@ -1,7 +1,11 @@
 {
-  "cssTheme": "Spectrum",
-  "baseFontSize": 18,
-  "textFontFamily": "Hey Comic",
-  "interfaceFontFamily": "Bebas Neue",
-  "monospaceFontFamily": "Nimbus Mono PS"
+  "cssTheme": "Golden Topaz",
+  "baseFontSize": 20,
+  "textFontFamily": "CodeNewRoman NF,JMH Typewriter",
+  "interfaceFontFamily": "FreeSans,Coolvetica",
+  "monospaceFontFamily": "CodeNewRoman Nerd Font Mono",
+  "accentColor": "#6df06a",
+  "nativeMenus": true,
+  "showViewHeader": false,
+  "theme": "moonstone"
 }

@@ -32,6 +32,7 @@ Sur
 Singulares
 Su
 Supongamos
+Sustituciones
 DE
 DETERMINANTES
 De
@@ -51,6 +52,8 @@ Discontinuidad
 Distrbu
 Descanso
 Dominio
+Datos
+Dif
 ECUACIONES
 El
 En
@@ -76,6 +79,7 @@ Estudio
 Extremos
 Elijo
 Escribamos
+Esquema
 LINEALES
 La
 LCULO
@@ -137,6 +141,9 @@ metro
 muchas
 moverse
 multiplicar
+metros
+manufacturaci
+minimizar
 de
 dice
 designar
@@ -220,6 +227,8 @@ despejar
 determinar
 describe
 detalle
+denomina
+di
 orden
 otra
 obtiene
@@ -244,6 +253,10 @@ ocurr
 otras
 observemos
 obtenemos
+optimizaci
+objetivo
+originales
+osea
 es
 el
 elemento
@@ -320,6 +333,8 @@ elegir
 expresada
 eligi
 equivalentes
+encerrar
+expresiones
 un
 una
 usaremos
@@ -335,6 +350,7 @@ unidad
 unitario
 utilizamos
 ubicados
+ubicar
 cuadro
 con
 columnas
@@ -445,6 +461,10 @@ conocemos
 construir
 contexto
 cita
+cociente
+cable
+costo
+contenida
 filas
 fila
 factor
@@ -472,6 +492,8 @@ formada
 formado
 fundamental
 fuera
+ficas
+familia
 horizontales
 haber
 https
@@ -492,6 +514,7 @@ haciendo
 hacer
 horario
 hab
+hallar
 verticales
 veces
 valores
@@ -517,6 +540,7 @@ variamos
 vista
 veremos
 verifican
+viborita
 se
 sola
 si
@@ -588,6 +612,7 @@ siempre
 seguir
 sirviendo
 satisface
+simples
 la
 llama
 los
@@ -624,6 +649,10 @@ ltiplo
 llamarlo
 libertad
 libre
+llamadas
+lata
+llegamos
+llegar
 que
 qu
 queda
@@ -667,6 +696,9 @@ nica
 normal
 notemos
 neamente
+ntotas
+ngulo
+notaremos
 para
 posibles
 producto
@@ -745,6 +777,14 @@ probaremos
 podr
 poder
 papel
+problem
+puedo
+ptima
+planteamos
+preguntamos
+primera
+primitiva
+primitivas
 tiene
 todos
 todo
@@ -800,6 +840,8 @@ trata
 tipo
 totalmente
 tomar
+tarea
+total
 iguales
 igual
 identidad
@@ -843,6 +885,7 @@ indican
 indicadas
 impl
 igualdad
+inmediato
 Requisito
 Recta
 Requisitos
@@ -904,6 +947,10 @@ recorra
 restantes
 reemplazamos
 relevante
+rbolas
+racional
+rect
+requisamos
 Adem
 Asociatividad
 APLICACIONES
@@ -932,6 +979,13 @@ Propiedad
 Preferimos
 Puntos
 Planteamos
+Poseen
+PRIMITIVAS
+Problema
+Pregunta
+Primitivas
+Proposiciones
+Partes
 general
 gnitas
 gr
@@ -944,6 +998,7 @@ girar
 genera
 gnita
 grados
+grado
 In
 Igualaci
 Inyectiva
@@ -1013,6 +1068,8 @@ adaptados
 adem
 adelante
 alternativas
+absolutos
+aceptamos
 Consideremos
 Contiene
 CONTINUAS
@@ -1046,6 +1103,7 @@ Hallar
 Habiendo
 Hacer
 Habitualmente
+Homogr
 Nos
 Nota
 NO
@@ -1053,6 +1111,8 @@ NEWTON
 No
 Norte
 Notemos
+Nuestro
+Notaci
 ya
 yendo
 FUNCIONES
@@ -1061,6 +1121,8 @@ Forma
 Factorizamos
 Finalmente
 Figura
+Funciones
+Fracciones
 wikipedia
 wiki
 width
@@ -1086,11 +1148,14 @@ Orientaciones
 Vectores
 Vamos
 Volviendo
+Veremos
 base
 buscamos
 borde
 bases
 breve
 buscar
+busc
+bamos
 ximo
 juega
