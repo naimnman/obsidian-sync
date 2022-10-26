@@ -33,6 +33,10 @@ Singulares
 Su
 Supongamos
 Sustituciones
+Simples
+Sumar
+Siendo
+Sugerencia
 DE
 DETERMINANTES
 De
@@ -54,6 +58,8 @@ Descanso
 Dominio
 Datos
 Dif
+Derivar
+Denominador
 ECUACIONES
 El
 En
@@ -80,6 +86,7 @@ Extremos
 Elijo
 Escribamos
 Esquema
+Escribimos
 LINEALES
 La
 LCULO
@@ -88,6 +95,7 @@ Lo
 Las
 Luego
 Llamemos
+Los
 MATRICES
 Matriz
 MITE
@@ -144,6 +152,8 @@ multiplicar
 metros
 manufacturaci
 minimizar
+mayor
+menes
 de
 dice
 designar
@@ -229,6 +239,7 @@ describe
 detalle
 denomina
 di
+despear
 orden
 otra
 obtiene
@@ -335,6 +346,8 @@ eligi
 equivalentes
 encerrar
 expresiones
+etc
+encerrada
 un
 una
 usaremos
@@ -465,6 +478,8 @@ cociente
 cable
 costo
 contenida
+can
+corte
 filas
 fila
 factor
@@ -494,6 +509,7 @@ fundamental
 fuera
 ficas
 familia
+ficos
 horizontales
 haber
 https
@@ -541,6 +557,8 @@ vista
 veremos
 verifican
 viborita
+vol
+variaci
 se
 sola
 si
@@ -653,6 +671,10 @@ llamadas
 lata
 llegamos
 llegar
+linealidad
+ltiples
+ltiple
+lateral
 que
 qu
 queda
@@ -785,6 +807,9 @@ preguntamos
 primera
 primitiva
 primitivas
+pa
+potencia
+pasos
 tiene
 todos
 todo
@@ -886,6 +911,8 @@ indicadas
 impl
 igualdad
 inmediato
+igualar
+integraci
 Requisito
 Recta
 Requisitos
@@ -897,6 +924,7 @@ Resumiendo
 Ruffini
 Regulares
 Resultados
+Ra
 rden
 redundante
 recalcar
@@ -951,6 +979,9 @@ rbolas
 racional
 rect
 requisamos
+rtice
+reemplazo
+reas
 Adem
 Asociatividad
 APLICACIONES
@@ -965,6 +996,7 @@ Aproximaciones
 Aproximaci
 Analizar
 Asimismo
+Aplicaciones
 Propiedades
 Para
 Puede
@@ -1007,6 +1039,7 @@ Imaginemos
 II
 Intervalos
 Interpretaci
+Integral
 aunque
 al
 ambas
@@ -1070,6 +1103,8 @@ adelante
 alternativas
 absolutos
 aceptamos
+asociada
+aparte
 Consideremos
 Contiene
 CONTINUAS
@@ -1093,11 +1128,14 @@ Conservamos
 Combinaciones
 Comparar
 Como
+Completar
+Caso
 Geom
 Gauss
 GLOSARIO
 Gr
 Graficamos
+Grado
 Hay
 Hallar
 Habiendo
@@ -1113,6 +1151,7 @@ Norte
 Notemos
 Nuestro
 Notaci
+Numerador
 ya
 yendo
 FUNCIONES
@@ -1123,6 +1162,7 @@ Finalmente
 Figura
 Funciones
 Fracciones
+Faltan
 wikipedia
 wiki
 width
@@ -1134,6 +1174,7 @@ Buscamos
 Buscar
 Bordes
 Bases
+Barrow
 Qu
 Quedan
 Ya
@@ -1157,5 +1198,6 @@ breve
 buscar
 busc
 bamos
+bordes
 ximo
 juega

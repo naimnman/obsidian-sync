@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "7d12fccd4aa2bece",
+    "type": "split",
+    "children": [
+      {
+        "id": "57dcbad71332750d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4e8e333930013f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022/Análisis Matemático I/PRIMITIVAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08881a8e1be6a9e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7db9c6e7d2166c0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b05be781eb77275b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6262823ccab0a03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#GLOSARIO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c08b59f6aa60a9d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6bf29aa5bfb576a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9237b0a7c30a8ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f05c3a9facbef17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022/Análisis Matemático I/PRIMITIVAS.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6474c9198809ad7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022/Análisis Matemático I/PRIMITIVAS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "457ce65c5ea49ad2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "311313251daf629c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022/Análisis Matemático I/PRIMITIVAS.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252,
+    "collapsed": true
+  },
+  "active": "a4e8e333930013f7",
+  "lastOpenFiles": [
+    "2022/Análisis Matemático I/ANÁLISIS MATEMÁTICO I.md",
+    "2022/Análisis Matemático I/PRIMITIVAS.md",
+    "2022/Análisis Matemático I/LAS FUNCIONES.md",
+    "2022/Elementos de Álgebra y Geometría/VECTORES.md",
+    "2022/Elementos de Álgebra y Geometría/ELEMENTOS DE ÁLGEBRA Y GEOMETRÍA.md",
+    "2022/Análisis Matemático I/DERIVABILIDAD II.md",
+    "2022/Análisis Matemático I/DERIVABILIDAD I.md",
+    "2022/Análisis Matemático I/CONTINUIDAD I.md",
+    "2022/Elementos de Álgebra y Geometría/SISTEMAS DE ECUACIONES LINEALES, MATRICES Y DETERMINANTES.md",
+    "Untitled.md"
+  ]
+}
